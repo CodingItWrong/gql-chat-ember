@@ -1,0 +1,6 @@
+query {
+  messages {
+    _id
+    text
+  }
+}
